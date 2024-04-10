@@ -15,7 +15,7 @@ The HTTP server is designed to handle incoming HTTP requests, parse the requests
 
    ```sh
    git clone https://github.com/sergiobriito/http-server.git
-   cd WebServer
+   cd http-server
    make run
    ```
 
