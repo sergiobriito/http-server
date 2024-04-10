@@ -14,7 +14,7 @@ The HTTP server is designed to handle incoming HTTP requests, parse the requests
 ### How to Use
 
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/sergiobriito/http-server.git
    cd WebServer
    make run
    ```
